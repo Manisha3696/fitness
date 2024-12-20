@@ -1,0 +1,22 @@
+.container-fluid img {
+  max-width: 84px;
+  margin: 0px 37px;
+}
+.container-fluid {
+  height: 99px;
+  margin: -10px 0px;
+}
+.navbar-collapse ul li a{
+  font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin: 0 10px;
+}
+div#navbarNavDropdown {
+  margin: 13px 252px;
+}
+.navbar-collapse ul li a:hover {
+  color: green; 
+}
